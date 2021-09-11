@@ -1,0 +1,39 @@
+body {
+  background: linear-gradient(#ce93d8 0%, #ff9e80 100%);
+  background-color: #ff9e80;
+  background-repeat: no-repeat;
+}
+
+img {
+  width: 250px;
+  height: 220px;
+}
+
+p {
+  font-size: 17px;
+} 
+
+button {
+  background-color: #ffab91;
+  color: black;
+  font-size: 25px;
+}
+
+#writingconclusion {
+  font-size: 30px;
+}
+
+#favtitle {
+  text-shadow: 3px 3px #ffe0b2;
+}
+
+#abtsection {
+  padding: 30px;
+}
+
+div {
+  height: 6px;
+  background-color: black;
+  width: 70px;
+  margin: 8px auto;
+}
